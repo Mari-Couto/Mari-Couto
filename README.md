@@ -5,7 +5,6 @@
 - ✌ Tenho habilidades com HTML, CSS e JavaScript.
 - 🙌 Eu estou aprendendo TypeScript, Node, React, SQL.
 - 😁  Estou empolgada para meu primeiro trabalho na aréa de desenvolvimento web.
-- 📫 Você pode entrar em contato pelo e-mail: marinacoutonina@gmail.com
 
 ##
 
