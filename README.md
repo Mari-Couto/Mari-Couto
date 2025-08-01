@@ -2,7 +2,7 @@
 
 - 💻 Sou desenvolvedora com foco em **front-end** e apaixonada por tecnologia e programação.
 - 🌱 Tenho uma boa base em **JavaScript**, **Node.js** e **React**, além de experiência prática no desenvolvimento de **APIs REST** e integração com bancos de dados como **MySQL** e **PostgreSQL**.
-- 🚀 Atualmente, estou me aprofundando no universo do **.NET** e aprimorando minhas habilidades em metodologias ágeis, como **Scrum**.
+- 🚀 Atualmente, estou em transição para a área de **Produto**, mergulhando em práticas centradas no usuário, tomada de decisão orientada por dados e metodologias ágeis como o **Scrum**.
 - 📚 Sempre em busca de aprender mais e me aperfeiçoar para oferecer soluções inovadoras e de qualidade.
 
 ##
