@@ -21,7 +21,13 @@
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+  <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
+  <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Miro_logo.svg/512px-Miro_logo.svg.png" />
+  <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_process_icon.svg" />
+  <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Google_Analytics_Logo.png" />
+</div>
+
 
 </div>
 
