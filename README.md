@@ -23,8 +23,6 @@
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
-<img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Scrum_process_icon.svg/2048px-Scrum_process_icon.svg.png" alt="Scrum icon" />
-
 
 </div>
 
